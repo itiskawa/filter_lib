@@ -5,3 +5,5 @@ My past job was to smoothen terribly noisy pupil dilatations, and I couldn't see
 way to smoothen them on the internet. Luckily, I talked with some friends and we figured out that using
 Fourier Analysis was the way to go. 
 
+## Example:
+![images/ex_1.png]
