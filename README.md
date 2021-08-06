@@ -7,3 +7,11 @@ Fourier Analysis was the way to go.
 
 ## Example:
 ![](images/ex_1.png)
+
+The functions use the following libraries:
+- NumPy (specifically the fft part)
+- Scipy.integrate
+
+These are mostly here to be templates, as they were tailored to my specific needs, so beware of that!
+
+Enjoy
