@@ -6,4 +6,4 @@ way to smoothen them on the internet. Luckily, I talked with some friends and we
 Fourier Analysis was the way to go. 
 
 ## Example:
-![images/ex_1.png]
+![](images/ex_1.png)
